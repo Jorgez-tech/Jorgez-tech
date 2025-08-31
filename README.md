@@ -1,55 +1,116 @@
-Presentación.
+# 👨‍💻 Presentación
 
-Hola, soy Jorge. Estudio programación y me gusta la música, los paseos al aire libre y aprender cosas nuevas.  
-Este espacio lo he creado para compartir algunos desarrollos en los que he estado trabajando, investigando y experimentando.  
-Muchos de estos proyectos están en proceso, otros ya funcionan, y todos pueden servir como guía o inspiración para quienes están comenzando en el mundo del desarrollo.  
-Espero que los contenidos les resulten útiles o interesantes.  
-Quedo atento a cualquier duda, consulta o contribución. ¡Saludos!
----
+## 🎯 **¡Hola, soy Jorge!** 
 
-## 🚀 Proyectos
+### 🌟 Sobre mí
+**Estudiante de programación** apasionado por la **música**, los **paseos al aire libre** y el **aprendizaje continuo**.  
 
-### Encuestas  
-Aplicación de gestión de encuestas desarrollada con Django, usando SQLite; proyecto terminado y desplegado en GitHub Pages.
+### 🚀 Propósito de este espacio
+Este repositorio es mi **biblioteca personal de desarrollo**, donde comparto:
+- 💡 **Proyectos experimentales** en los que trabajo e investigo
+- 🔧 **Desarrollos funcionales** y en proceso
+- 📚 **Recursos y guías** para desarrolladores principiantes
+- ✨ **Inspiración** para quienes comienzan en el mundo del desarrollo
 
-### Baloncesto Team  
-Proyecto en Node.js con frontend en React y base de datos MongoDB; actualmente en desarrollo.
-
-### Angular Shop Template  
-Plantilla de tienda online con Angular, backend en Python y base de datos SQLite; proyecto funcional.
-
-### My First Vue App  
-Aplicación básica en Vue.js con ejemplos de componentes; proyecto inicial funcional.
-
-### CRM Básico  
-Sistema CRUD completo con Node.js, Express, MySQL y EJS; proyecto funcional.
-
-### Crossfit App  
-Aplicación con frontend en Vue 3 y backend en Express, usando SQLite; proyecto funcional.
-
-### Desarrollo de juegos básicos  
-Prototipos y experimentos en Pygame y RobloxStudio junto a Suzuta; proyecto en exploración y aprendizaje.
----
-
-## 📘 Formación
-
-- Técnico Universitario en Programación  
-  *Universidad Mayor, Chile*  
-  Actualmente cursando, con enfoque en desarrollo web, documentación clara y aprendizaje práctico.
+### 🤝 Comunidad
+Espero que estos contenidos te resulten **útiles e interesantes**.  
+¡Estoy abierto a **dudas**, **consultas** y **contribuciones**! 
 
 ---
 
-## 🔄 En qué estoy ahora
+## 🚀 **Proyectos Destacados**
 
-Actualmente estoy refinando algunos proyectos para que sean más fáciles de entender y reutilizar.  
-Estoy explorando nuevas formas de documentar sin perder naturalidad, y probando ideas junto a asistentes virtuales que me ayudan a depurar y automatizar.  
-También sigo desarrollando juegos básicos con Suzuta, como parte de un proceso de aprendizaje compartido.
+### 📊 **Encuestas**  
+> *Sistema completo de gestión de encuestas*
+
+**Tecnologías:** Django + SQLite  
+**Estado:** ✅ Terminado y desplegado en GitHub Pages
+
+### 🏀 **Baloncesto Team**  
+> *Plataforma integral para gestión de equipos*
+
+**Tecnologías:** Node.js + React + MongoDB  
+**Estado:** 🔄 En desarrollo activo
+
+### 🛒 **Angular Shop Template**  
+> *Template moderno para tiendas online*
+
+**Tecnologías:** Angular + Python + SQLite  
+**Estado:** ✅ Funcional y disponible
+
+### 📚 **Biblioteca Personal de Desarrollo**  
+> *Colección curada de herramientas, utilidades y componentes reutilizables*
+
+**Stack principal:** JavaScript, Python, Node.js, React  
+**Características:**
+- 🔧 Utilidades comunes para desarrollo web
+- 📦 Componentes UI reutilizables  
+- 🛠️ Scripts de automatización
+- 📖 Documentación detallada y ejemplos de uso  
+- ✅ Código limpio y bien comentado
+
+**Estado:** En desarrollo activo | **Acceso:** Público
+
+### 💼 **CRM Básico**  
+> *Sistema completo de gestión de relaciones con clientes*
+
+**Tecnologías:** Node.js + Express + MySQL + EJS  
+**Estado:** ✅ Completamente funcional
+
+### 💪 **Crossfit App**  
+> *Aplicación para seguimiento de entrenamientos*
+
+**Tecnologías:** Vue 3 + Express + SQLite  
+**Estado:** ✅ Operativo y optimizado
+
+### 🎮 **Desarrollo de Juegos Básicos**  
+> *Explorando el desarrollo de juegos*
+
+**Tecnologías:** Pygame + RobloxStudio  
+**Colaboración:** Proyecto conjunto con Suzuta  
+**Estado:** 🔍 En exploración y aprendizaje continuo
+---
+
+## 📘 **Formación Académica**
+
+### 🎓 **Técnico Universitario en Programación**
+**🏛️ Universidad Mayor, Chile**  
+📅 *Actualmente cursando*
+
+**🎯 Enfoque especializado en:**
+- 🌐 Desarrollo web moderno
+- 📝 Documentación técnica clara  
+- 🔄 Metodologías de aprendizaje práctico
+- 🛠️ Mejores prácticas de desarrollo
 
 ---
 
-## 📎 Enlaces útiles
+## 🔄 **Actividad Actual**
 
-- [linkedin](https://www.linkedin.com/in/jorge-zuta-23b380152/?originalSubdomain=cl).  
-- [Mail](jzuta309@gmail.com)
+### 🔧 **Refinamiento de Proyectos**
+Optimizando proyectos existentes para mejorar:
+- 📖 **Legibilidad** y comprensión del código
+- 🔄 **Reutilización** de componentes
+- 📚 **Documentación** técnica
+
+### 🤖 **Exploración Tecnológica**
+- 🔍 Investigando nuevas formas de **documentar** sin perder naturalidad
+- 🤝 Colaborando con **asistentes virtuales** para depuración y automatización
+- 🎮 Desarrollando **juegos básicos** con Suzuta (aprendizaje compartido)
+
+---
+
+## 📎 **Conecta Conmigo**
+
+### 🌐 **Redes Profesionales**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/jorge-zuta-23b380152/?originalSubdomain=cl)** - Perfil profesional
+- 📧 **[Email](mailto:jzuta309@gmail.com)** - Contacto directo
+
+### 💬 **¿Tienes alguna pregunta?**
+¡No dudes en contactarme! Estoy siempre disponible para:
+- 🤝 **Colaboraciones** en proyectos
+- 💡 **Intercambio** de ideas
+- 🆘 **Consultas** técnicas
+- 📚 **Compartir** experiencias de aprendizaje
 
 ---
