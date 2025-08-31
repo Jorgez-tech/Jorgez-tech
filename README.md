@@ -1,4 +1,4 @@
-presentación.
+Presentación.
 
 Hola, soy Jorge. Estudio programación y me gusta la música, los paseos al aire libre y aprender cosas nuevas.  
 Este espacio lo he creado para compartir algunos desarrollos en los que he estado trabajando, investigando y experimentando.  
@@ -10,45 +10,25 @@ Quedo atento a cualquier duda, consulta o contribución. ¡Saludos!
 ## 🚀 Proyectos
 
 ### Encuestas  
-Aplicación basada en Django para la gestión de encuestas.  
-**Tecnología:** Django  
-**Base de datos:** SQLite  
-**Estado:** Proyecto terminado y desplegado en GitHub Pages.
+Aplicación de gestión de encuestas desarrollada con Django, usando SQLite; proyecto terminado y desplegado en GitHub Pages.
 
 ### Baloncesto Team  
-Proyecto basado en Node.js con una base de datos integrada. Incluye un frontend desarrollado en React.  
-**Tecnología:** Node.js, React  
-**Base de datos:** MongoDB  
-**Estado:** En desarrollo.
+Proyecto en Node.js con frontend en React y base de datos MongoDB; actualmente en desarrollo.
 
 ### Angular Shop Template  
-Plantilla de tienda en línea desarrollada con Angular.  
-**Backend:** Python  
-**Base de datos:** SQLite  
-**Estado:** Proyecto funcional.
+Plantilla de tienda online con Angular, backend en Python y base de datos SQLite; proyecto funcional.
 
 ### My First Vue App  
-Aplicación inicial desarrollada con Vue.js.  
-**Tecnología:** Vue.js  
-**Estado:** Proyecto básico con ejemplos de componentes.
+Aplicación básica en Vue.js con ejemplos de componentes; proyecto inicial funcional.
 
 ### CRM Básico  
-Sistema funcional con CRUD completo.  
-**Tecnología:** Node.js, Express, MySQL, EJS  
-**Estado:** Proyecto funcional.
+Sistema CRUD completo con Node.js, Express, MySQL y EJS; proyecto funcional.
 
 ### Crossfit App  
-Aplicación con frontend y backend integrados.  
-**Tecnología:** Vue 3, Express  
-**Base de datos:** SQLite  
-**Estado:** Proyecto funcional.
+Aplicación con frontend en Vue 3 y backend en Express, usando SQLite; proyecto funcional.
 
 ### Desarrollo de juegos básicos  
-Experimentos y prototipos en motores de juego.  
-**Tecnología:** Pygame, RobloxStudio  
-**Colaboración:** Con Suzuta  
-**Estado:** En exploración y aprendizaje.
-
+Prototipos y experimentos en Pygame y RobloxStudio junto a Suzuta; proyecto en exploración y aprendizaje.
 ---
 
 ## 📘 Formación
