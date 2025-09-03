@@ -1,5 +1,7 @@
 
-**Estudiante de programación** apasionado por la **música**, los **paseos al aire libre** y el **aprendizaje continuo**.  
+Actualmente estudio Técnico Universitario en Programación en la Universidad Mayor (Chile), donde aplico conocimientos en desarrollo fullstack (Node.js, Vue, Angular, Django, Express) y bases de datos (SQLite, MySQL, MongoDB).
+
+Experiencia práctica en aplicaciones web con CRUD, proyectos experimentales y educativos, desarrollo de juegos básicos (Godot, Pygame, RobloxStudio) y mejora continua en equipos colaborativos. Me especializo en estructurar y documentar proyectos usando GitHub, y en integrar frontend con backend para soluciones funcionales.
 
 ### 🤝 Comunidad
 Espero que estos contenidos te resulten **útiles e interesantes**.  
