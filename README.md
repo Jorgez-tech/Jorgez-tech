@@ -1,10 +1,9 @@
-
 <div align="center">
 
 ```
     ╔══════════════════════════════════════════════════════════════╗
-    ║                    🌑 JORGE ZUTA 🌑                         ║
-    ║              ⚡ DESARROLLADOR EN LAS SOMBRAS ⚡              ║
+    ║                       JORGE ZUTA                            ║
+    ║                DESARROLLADOR EN LAS SOMBRAS                 ║
     ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -12,93 +11,67 @@
 
 ---
 
-<div align="center">
+## PERFIL DEL DESARROLLADOR
 
-### 🔮 **PERFIL DEL DESARROLLADOR** 🔮
+**TRAYECTORIA ACTUAL:**
 
-</div>
+Actualmente estudio Técnico Universitario en Programación en la Universidad Mayor (Chile), donde aplico conocimientos en desarrollo fullstack (Node.js, Vue, Angular, Django, Express) y bases de datos.
 
-> 🕯️ *En los pasillos oscuros del código, donde los algoritmos susurran secretos...*
+**EXPERIENCIA EN EL CAMPO DE BATALLA:**
 
-**🌙 TRAYECTORIA ACTUAL:**
-Actualmente estudio Técnico Universitario en Programación en la Universidad Mayor (Chile), donde aplico conocimientos en desarrollo fullstack (Node.js, Vue, Angular, Django, Express) y bases de datos (SQLite, MySQL, MongoDB).
-
-**⚔️ EXPERIENCIA EN EL CAMPO DE BATALLA:**
-Experiencia práctica en aplicaciones web con CRUD, proyectos experimentales y educativos, desarrollo de juegos básicos (Godot, Pygame, RobloxStudio) y mejora continua en equipos colaborativos. Me especializo en estructurar y documentar proyectos usando GitHub, y en integrar frontend con backend para soluciones funcionales.
+Experiencia práctica en aplicaciones web con CRUD, proyectos experimentales y educativos, desarrollo de juegos básicos (Godot, Pygame, RobloxStudio) y mejora continua en equipos colaborativos.
 
 ---
 
-<div align="center">
+## LA HERMANDAD DEL CÓDIGO
 
-## 🖤 **LA HERMANDAD DEL CÓDIGO** 🖤
-
-</div>
-
-> *🔥 En esta dimensión digital, los conocimientos se comparten como llamas en la oscuridad...*
+En esta dimensión digital, los conocimientos se comparten como llamas en la oscuridad.
 
 Espero que estos contenidos te resulten **útiles e interesantes**.  
-¡Estoy abierto a **dudas**, **consultas** y **contribuciones**! 
+¡Estoy abierto a **dudas**, **consultas** y **contribuciones**!
 
 ```
     ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ```
 
-<div align="center">
+---
 
-## 📜 **GRIMORIO PERSONAL DE DESARROLLO** 📜
+## GRIMORIO PERSONAL DE DESARROLLO
 
-</div>
+Colección curada de herramientas, utilidades y componentes reutilizables.
 
-> 🌑 *Colección curada de herramientas, utilidades y componentes reutilizables*
-
-| 🗡️ **ARSENAL** | 🔮 **DETALLES** |
+| ARSENAL | DETALLES |
 |---|---|
-| **⚡ Tecnologías** | Pygame + RobloxStudio |
-| **🤝 Colaboración** | Proyecto conjunto con Suzuta |
-| **🌙 Estado** | 🔍 En exploración y aprendizaje continuo |
+| **Tecnologías** | Pygame + RobloxStudio |
+| **Colaboración** | Proyecto conjunto con Suzuta |
+| **Estado** | En exploración y aprendizaje continuo |
 
 ```
     ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ```
 
-<div align="center">
+---
 
-## 🎓 **ACADEMIA DE LAS ARTES OSCURAS** 🎓
+## ACADEMIA DE LAS ARTES OSCURAS
 
-</div>
-
-<div align="center">
-
-### ⚔️ **Técnico Universitario en Programación** ⚔️
-**🏛️ Universidad Mayor, Chile**  
-📅 *Actualmente cursando*
-
-</div>
+**Técnico Universitario en Programación**  
+**Universidad Mayor, Chile**  
+*Actualmente cursando*
 
 ```
     ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ```
 
-<div align="center">
+---
 
-## 🌙 **PORTALES DE COMUNICACIÓN** 🌙
+## PORTALES DE COMUNICACIÓN
 
-</div>
+### CANALES DEL PLANO DIGITAL
 
-<div align="center">
-
-### 🔮 **CANALES DEL PLANO DIGITAL** 🔮
-
-</div>
-
-<div align="center">
-
-| 🌑 **PORTAL** | 🔗 **ENLACE** |
+| PORTAL | ENLACE |
 |---|---|
-| 💼 **LinkedIn** | **[Perfil Profesional](https://www.linkedin.com/in/jorge-zuta-23b380152/?originalSubdomain=cl)** |
-| 📧 **Email** | **[Contacto Directo](mailto:jzuta309@gmail.com)** |
-
-</div>
+| **LinkedIn** | **[Perfil Profesional](https://www.linkedin.com/in/jorge-zuta-23b380152/?originalSubdomain=cl)** |
+| **Email** | **[Contacto Directo](mailto:jzuta309@gmail.com)** |
 
 ---
 
@@ -106,8 +79,8 @@ Espero que estos contenidos te resulten **útiles e interesantes**.
 
 ```
     ╔══════════════════════════════════════════════════════════════╗
-    ║                🕯️ "El código es poesía escrita en las       ║
-    ║                   sombras de la lógica" 🕯️                  ║
+    ║              "El código es poesía escrita en las            ║
+    ║                 sombras de la lógica"                       ║
     ╚══════════════════════════════════════════════════════════════╝
 ```
 
