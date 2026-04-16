@@ -1,40 +1,60 @@
-<div align="center">
 
-```
-    ╔══════════════════════════════════════════════════════════════╗
-    ║                       JORGE ZUTA                            ║
-    ║                                                             ║
-    ╚══════════════════════════════════════════════════════════════╝
-```
+# Jorge Zuta
 
-</div>
+**Desarrollador Backend en transición**  
+*C# / .NET · Django · Documentación · Arquitectura*
 
 ---
 
-## PERFIL DEL DESARROLLADOR
+## Sobre mí
 
-Soy Desarrollador Backend en transición, con foco en C#/.NET y Django.
-Me interesa el diseño de sistemas claros, la documentación como parte del código y el aprendizaje continuo.
+Soy **Desarrollador Backend en transición**, con foco en **C#/.NET y Django**.  
+Me interesa construir sistemas claros, bien estructurados y correctamente documentados, entendiendo la documentación como parte fundamental del código y no como un extra.
 
 
-## PORTALES DE COMUNICACIÓN
-
-### CANALES DEL PLANO DIGITAL
-
-| PORTAL | ENLACE |
-|---|---|
-| **LinkedIn** | **[Perfil Profesional](https://www.linkedin.com/in/jorge-zuta-23b380152/?originalSubdomain=cl)** |
-| **Email** | **[Contacto Directo](mailto:jzuta309@gmail.com)** |
+Mi enfoque está puesto en el aprendizaje continuo, el diseño responsable de soluciones y la evolución progresiva hacia roles de mayor nivel técnico.
 
 ---
 
-<div align="center">
+## Enfoque técnico
 
-```
-    ╔══════════════════════════════════════════════════════════════╗
-    ║              "El código es poesía escrita en las            ║
-    ║                 sombras de la lógica"                       ║
-    ╚══════════════════════════════════════════════════════════════╝
-```
+- Desarrollo backend con **C# / ASP.NET Core** y **Django**
+- Diseño de APIs y lógica de negocio
+- Integración frontend – backend
+- Documentación técnica clara y mantenible
+- Testing y buenas prácticas de código
+- Uso consciente de herramientas de asistencia por IA (LLM) como apoyo al aprendizaje y productividad
 
-</div>
+---
+
+## Proyectos
+
+En mis repositorios encontrarás proyectos orientados a:
+- Aplicaciones web backend y full‑stack
+- Sistemas CRUD y APIs
+- Proyectos educativos y experimentales
+- Documentación técnica y bibliotecas de conocimiento
+
+Busco que los proyectos sean **entendibles, reproducibles y bien documentados**, priorizando claridad sobre complejidad innecesaria.
+
+---
+
+## Intereses
+
+- Arquitectura de software
+- Backend orientado a sistemas productivos
+- Automatización y mejora continua
+- Documentación como herramienta profesional
+- Aprendizaje técnico a largo plazo
+
+---
+
+## Contacto
+
+- 🌐 Portafolio: https://www.jorgez.tech  
+- 💼 LinkedIn: https://www.linkedin.com/in/jorge-zuta-23b380152/
+
+---
+
+> *Transición profesional consciente, con foco técnico, responsabilidad y constancia.*
+
