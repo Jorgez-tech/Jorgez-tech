@@ -1,14 +1,14 @@
 
 # Jorge Zuta
 
-**Desarrollador Backend en transición**  
+**Desarrollador Backend/Full-Stack**  
 *C# / .NET · Django · Documentación · Arquitectura*
 
 ---
 
 ## Sobre mí
 
-Soy **Desarrollador Backend en transición**, con foco en **C#/.NET y Django**.  
+Soy **Desarrollador Backend/Full-Stack**, con foco en **C#/.NET y Django**.  
 Me interesa construir sistemas claros, bien estructurados y correctamente documentados, entendiendo la documentación como parte fundamental del código y no como un extra.
 
 
@@ -56,5 +56,5 @@ Busco que los proyectos sean **entendibles, reproducibles y bien documentados**,
 
 ---
 
-> *Transición profesional consciente, con foco técnico, responsabilidad y constancia.*
+> *profesional consciente, con foco técnico, responsabilidad y constancia.*
 
